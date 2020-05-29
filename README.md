@@ -7,6 +7,6 @@ In this assignment we'll be experimenting with algorithmic composition using the
 
 Developed Project:
 
-![spahche](https://github.com/cmedvid/images/blob/master/spahche.png | width=100)
+![spahche](https://github.com/cmedvid/images/blob/master/spahche.png)
 
 messing around with some brownian motion emulating code and dots for spahche feels
